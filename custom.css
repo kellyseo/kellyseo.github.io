@@ -1,0 +1,42 @@
+p {
+    color: white;
+    font-size: 14px;
+    line-height: 200%;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 7px;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    font-size: 25px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align: center;
+    font-weight: normal;
+}
+
+body {
+    background-color: #ffffff;
+    background-position: center top;
+    background-repeat: no-repeat;
+}
+
+.navbar-inverse {
+    background-color: #ffffff;
+    hover-color: #9EB3AF;
+    border: 0px;
+    text-transform: uppercase;
+    margin: 0px;
+}
+
+.jumbotron {
+    background-image: url("img/background.jpg");
+    background-size: cover;
+}
